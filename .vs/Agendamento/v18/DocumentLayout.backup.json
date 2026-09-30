@@ -1,0 +1,412 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\Downloads\\DesenvolvimentoWebDotNet-main\\Agendamento\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4D05BF22-0DDF-4CFD-AC54-99F19B00FE6F}|Agendamento.csproj|c:\\users\\administrator\\downloads\\desenvolvimentowebdotnet-main\\agendamento\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4D05BF22-0DDF-4CFD-AC54-99F19B00FE6F}|Agendamento.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D05BF22-0DDF-4CFD-AC54-99F19B00FE6F}|Agendamento.csproj|c:\\users\\administrator\\downloads\\desenvolvimentowebdotnet-main\\agendamento\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4D05BF22-0DDF-4CFD-AC54-99F19B00FE6F}|Agendamento.csproj|solutionrelative:views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D05BF22-0DDF-4CFD-AC54-99F19B00FE6F}|Agendamento.csproj|c:\\users\\administrator\\downloads\\desenvolvimentowebdotnet-main\\agendamento\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4D05BF22-0DDF-4CFD-AC54-99F19B00FE6F}|Agendamento.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D05BF22-0DDF-4CFD-AC54-99F19B00FE6F}|Agendamento.csproj|c:\\users\\administrator\\downloads\\desenvolvimentowebdotnet-main\\agendamento\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4D05BF22-0DDF-4CFD-AC54-99F19B00FE6F}|Agendamento.csproj|solutionrelative:views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D05BF22-0DDF-4CFD-AC54-99F19B00FE6F}|Agendamento.csproj|c:\\users\\administrator\\downloads\\desenvolvimentowebdotnet-main\\agendamento\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4D05BF22-0DDF-4CFD-AC54-99F19B00FE6F}|Agendamento.csproj|solutionrelative:views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D05BF22-0DDF-4CFD-AC54-99F19B00FE6F}|Agendamento.csproj|c:\\users\\administrator\\downloads\\desenvolvimentowebdotnet-main\\agendamento\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4D05BF22-0DDF-4CFD-AC54-99F19B00FE6F}|Agendamento.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D05BF22-0DDF-4CFD-AC54-99F19B00FE6F}|Agendamento.csproj|c:\\users\\administrator\\downloads\\desenvolvimentowebdotnet-main\\agendamento\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4D05BF22-0DDF-4CFD-AC54-99F19B00FE6F}|Agendamento.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D05BF22-0DDF-4CFD-AC54-99F19B00FE6F}|Agendamento.csproj|c:\\users\\administrator\\downloads\\desenvolvimentowebdotnet-main\\agendamento\\views\\pacientes\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4D05BF22-0DDF-4CFD-AC54-99F19B00FE6F}|Agendamento.csproj|solutionrelative:views\\pacientes\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D05BF22-0DDF-4CFD-AC54-99F19B00FE6F}|Agendamento.csproj|c:\\users\\administrator\\downloads\\desenvolvimentowebdotnet-main\\agendamento\\views\\pacientes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4D05BF22-0DDF-4CFD-AC54-99F19B00FE6F}|Agendamento.csproj|solutionrelative:views\\pacientes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D05BF22-0DDF-4CFD-AC54-99F19B00FE6F}|Agendamento.csproj|c:\\users\\administrator\\downloads\\desenvolvimentowebdotnet-main\\agendamento\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D05BF22-0DDF-4CFD-AC54-99F19B00FE6F}|Agendamento.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D05BF22-0DDF-4CFD-AC54-99F19B00FE6F}|Agendamento.csproj|c:\\users\\administrator\\downloads\\desenvolvimentowebdotnet-main\\agendamento\\views\\medico\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4D05BF22-0DDF-4CFD-AC54-99F19B00FE6F}|Agendamento.csproj|solutionrelative:views\\medico\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D05BF22-0DDF-4CFD-AC54-99F19B00FE6F}|Agendamento.csproj|c:\\users\\administrator\\downloads\\desenvolvimentowebdotnet-main\\agendamento\\controllers\\pacientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D05BF22-0DDF-4CFD-AC54-99F19B00FE6F}|Agendamento.csproj|solutionrelative:controllers\\pacientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D05BF22-0DDF-4CFD-AC54-99F19B00FE6F}|Agendamento.csproj|c:\\users\\administrator\\downloads\\desenvolvimentowebdotnet-main\\agendamento\\data\\seedingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D05BF22-0DDF-4CFD-AC54-99F19B00FE6F}|Agendamento.csproj|solutionrelative:data\\seedingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D05BF22-0DDF-4CFD-AC54-99F19B00FE6F}|Agendamento.csproj|c:\\users\\administrator\\downloads\\desenvolvimentowebdotnet-main\\agendamento\\models\\paciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D05BF22-0DDF-4CFD-AC54-99F19B00FE6F}|Agendamento.csproj|solutionrelative:models\\paciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D05BF22-0DDF-4CFD-AC54-99F19B00FE6F}|Agendamento.csproj|c:\\users\\administrator\\downloads\\desenvolvimentowebdotnet-main\\agendamento\\models\\medico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D05BF22-0DDF-4CFD-AC54-99F19B00FE6F}|Agendamento.csproj|solutionrelative:models\\medico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D05BF22-0DDF-4CFD-AC54-99F19B00FE6F}|Agendamento.csproj|c:\\users\\administrator\\downloads\\desenvolvimentowebdotnet-main\\agendamento\\controllers\\medicocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D05BF22-0DDF-4CFD-AC54-99F19B00FE6F}|Agendamento.csproj|solutionrelative:controllers\\medicocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D05BF22-0DDF-4CFD-AC54-99F19B00FE6F}|Agendamento.csproj|c:\\users\\administrator\\downloads\\desenvolvimentowebdotnet-main\\agendamento\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D05BF22-0DDF-4CFD-AC54-99F19B00FE6F}|Agendamento.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D05BF22-0DDF-4CFD-AC54-99F19B00FE6F}|Agendamento.csproj|c:\\users\\administrator\\downloads\\desenvolvimentowebdotnet-main\\agendamento\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D05BF22-0DDF-4CFD-AC54-99F19B00FE6F}|Agendamento.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D05BF22-0DDF-4CFD-AC54-99F19B00FE6F}|Agendamento.csproj|c:\\users\\administrator\\downloads\\desenvolvimentowebdotnet-main\\agendamento\\services\\medicoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D05BF22-0DDF-4CFD-AC54-99F19B00FE6F}|Agendamento.csproj|solutionrelative:services\\medicoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D05BF22-0DDF-4CFD-AC54-99F19B00FE6F}|Agendamento.csproj|c:\\users\\administrator\\downloads\\desenvolvimentowebdotnet-main\\agendamento\\agendamento.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4D05BF22-0DDF-4CFD-AC54-99F19B00FE6F}|Agendamento.csproj|solutionrelative:agendamento.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D05BF22-0DDF-4CFD-AC54-99F19B00FE6F}|Agendamento.csproj|c:\\users\\administrator\\downloads\\desenvolvimentowebdotnet-main\\agendamento\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4D05BF22-0DDF-4CFD-AC54-99F19B00FE6F}|Agendamento.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D05BF22-0DDF-4CFD-AC54-99F19B00FE6F}|Agendamento.csproj|c:\\users\\administrator\\downloads\\desenvolvimentowebdotnet-main\\agendamento\\migrations\\20260827002740_criacaoinicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D05BF22-0DDF-4CFD-AC54-99F19B00FE6F}|Agendamento.csproj|solutionrelative:migrations\\20260827002740_criacaoinicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\DesenvolvimentoWebDotNet-main\\Agendamento\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Administrator\\Downloads\\DesenvolvimentoWebDotNet-main\\Agendamento\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-30T19:15:59.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\DesenvolvimentoWebDotNet-main\\Agendamento\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Administrator\\Downloads\\DesenvolvimentoWebDotNet-main\\Agendamento\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB0AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-30T19:13:07.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\DesenvolvimentoWebDotNet-main\\Agendamento\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\Administrator\\Downloads\\DesenvolvimentoWebDotNet-main\\Agendamento\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAABjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-30T19:13:37.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\DesenvolvimentoWebDotNet-main\\Agendamento\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Administrator\\Downloads\\DesenvolvimentoWebDotNet-main\\Agendamento\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABsAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-30T17:44:28.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\DesenvolvimentoWebDotNet-main\\Agendamento\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\Administrator\\Downloads\\DesenvolvimentoWebDotNet-main\\Agendamento\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-30T19:16:03.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\DesenvolvimentoWebDotNet-main\\Agendamento\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\Administrator\\Downloads\\DesenvolvimentoWebDotNet-main\\Agendamento\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-30T19:13:17.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\DesenvolvimentoWebDotNet-main\\Agendamento\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Administrator\\Downloads\\DesenvolvimentoWebDotNet-main\\Agendamento\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-30T19:16:01.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\DesenvolvimentoWebDotNet-main\\Agendamento\\Views\\Pacientes\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Pacientes\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Administrator\\Downloads\\DesenvolvimentoWebDotNet-main\\Agendamento\\Views\\Pacientes\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Pacientes\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-30T19:15:22.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\DesenvolvimentoWebDotNet-main\\Agendamento\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Downloads\\DesenvolvimentoWebDotNet-main\\Agendamento\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T19:15:14.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Paciente.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\DesenvolvimentoWebDotNet-main\\Agendamento\\Models\\Paciente.cs",
+              "RelativeDocumentMoniker": "Models\\Paciente.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Downloads\\DesenvolvimentoWebDotNet-main\\Agendamento\\Models\\Paciente.cs",
+              "RelativeToolTip": "Models\\Paciente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T17:50:19.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SeedingService.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\DesenvolvimentoWebDotNet-main\\Agendamento\\Data\\SeedingService.cs",
+              "RelativeDocumentMoniker": "Data\\SeedingService.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Downloads\\DesenvolvimentoWebDotNet-main\\Agendamento\\Data\\SeedingService.cs",
+              "RelativeToolTip": "Data\\SeedingService.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAqwEsAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T17:56:23.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\DesenvolvimentoWebDotNet-main\\Agendamento\\Views\\Pacientes\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Pacientes\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Administrator\\Downloads\\DesenvolvimentoWebDotNet-main\\Agendamento\\Views\\Pacientes\\Index.cshtml",
+              "RelativeToolTip": "Views\\Pacientes\\Index.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAAkAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-30T18:57:27.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\DesenvolvimentoWebDotNet-main\\Agendamento\\Views\\Medico\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Medico\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Administrator\\Downloads\\DesenvolvimentoWebDotNet-main\\Agendamento\\Views\\Medico\\Index.cshtml",
+              "RelativeToolTip": "Views\\Medico\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-30T17:44:28.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\DesenvolvimentoWebDotNet-main\\Agendamento\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Downloads\\DesenvolvimentoWebDotNet-main\\Agendamento\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAADgvxkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T17:54:29.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Medico.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\DesenvolvimentoWebDotNet-main\\Agendamento\\Models\\Medico.cs",
+              "RelativeDocumentMoniker": "Models\\Medico.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Downloads\\DesenvolvimentoWebDotNet-main\\Agendamento\\Models\\Medico.cs",
+              "RelativeToolTip": "Models\\Medico.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T19:07:01.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MedicoController.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\DesenvolvimentoWebDotNet-main\\Agendamento\\Controllers\\MedicoController.cs",
+              "RelativeDocumentMoniker": "Controllers\\MedicoController.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Downloads\\DesenvolvimentoWebDotNet-main\\Agendamento\\Controllers\\MedicoController.cs",
+              "RelativeToolTip": "Controllers\\MedicoController.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAgwC8AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T17:44:28.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PacientesController.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\DesenvolvimentoWebDotNet-main\\Agendamento\\Controllers\\PacientesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PacientesController.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Downloads\\DesenvolvimentoWebDotNet-main\\Agendamento\\Controllers\\PacientesController.cs",
+              "RelativeToolTip": "Controllers\\PacientesController.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAhwDcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T18:51:59.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\DesenvolvimentoWebDotNet-main\\Agendamento\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Downloads\\DesenvolvimentoWebDotNet-main\\Agendamento\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T17:44:39.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "MedicoService.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\DesenvolvimentoWebDotNet-main\\Agendamento\\Services\\MedicoService.cs",
+              "RelativeDocumentMoniker": "Services\\MedicoService.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Downloads\\DesenvolvimentoWebDotNet-main\\Agendamento\\Services\\MedicoService.cs",
+              "RelativeToolTip": "Services\\MedicoService.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAmwEUAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T17:44:28.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\DesenvolvimentoWebDotNet-main\\Agendamento\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Administrator\\Downloads\\DesenvolvimentoWebDotNet-main\\Agendamento\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-09-30T17:57:03.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Agendamento",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\DesenvolvimentoWebDotNet-main\\Agendamento\\Agendamento.csproj",
+              "RelativeDocumentMoniker": "Agendamento.csproj",
+              "ToolTip": "C:\\Users\\Administrator\\Downloads\\DesenvolvimentoWebDotNet-main\\Agendamento\\Agendamento.csproj",
+              "RelativeToolTip": "Agendamento.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-09-30T18:50:07.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "20260827002740_CriacaoInicial.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\DesenvolvimentoWebDotNet-main\\Agendamento\\Migrations\\20260827002740_CriacaoInicial.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260827002740_CriacaoInicial.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Downloads\\DesenvolvimentoWebDotNet-main\\Agendamento\\Migrations\\20260827002740_CriacaoInicial.cs",
+              "RelativeToolTip": "Migrations\\20260827002740_CriacaoInicial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T17:57:46.535Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 130,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
